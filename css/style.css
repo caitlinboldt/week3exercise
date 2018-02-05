@@ -24,6 +24,7 @@ div.nav {
 }
 .nav ul li a {
     color: whitesmoke;
+    font-size: 20px;
     text-decoration: none;
     padding: 10px;
 }
@@ -37,8 +38,10 @@ div.nav {
 
 /* Buttons */
 .buttons {
+    height: 800px;
     margin: 50px;
     text-align: center;
+    width: 100%;
 }
 .buttons button {
     background-color: rgb(80, 9, 146);
